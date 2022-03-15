@@ -20,3 +20,15 @@
 <a href="https://www.instagram.com/viniandresilva/" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram">
 </a>
+
+<br> 
+<br>
+
+<a href="https://github.com/viniandresilva">
+  <img height="180em" align="center"  src="https://github-readme-stats.vercel.app/api?username=viniandresilva&count_private=true&show_icons=true&theme=vue-dark&hide_border=true&include_all_commits=true&layout=compact&)" />
+</a>
+
+<a href="https://github.com/viniandresilva">
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniandresilva&langs_count=8&layout=compact&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true&)" />
+</a>
+

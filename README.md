@@ -1,9 +1,10 @@
-## Seja bem vindo ao meu Github 🙂
+## Seja bem vindo ao meu Github :)
 
 💻 Software Developer na Datainfo Soluções em TI <br>
 👩🏻‍🎓 Graduando Análise e Desenvolvimento de Sistemas no IFSC <br>
 📚 Atualmente procurando me aperfeiçoar em Flutter, ReactJS e Spring <br>
-🔭 Em busca de conhecimentos em Devops
+🔭 Em busca de conhecimentos em Devops <br>
+🎮 Gamer nas horas vagas
 
 ### <samp> Ferramentas </samp>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" width="35" height="35"/>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="30" height="30"/>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="30" height="30"/>

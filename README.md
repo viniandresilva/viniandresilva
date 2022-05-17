@@ -1,7 +1,7 @@
 ## Seja bem vindo ao meu Github :)
 
 💻 Software Developer na Datainfo Soluções em TI <br>
-👩🏻‍🎓 Graduando Análise e Desenvolvimento de Sistemas no IFSC <br>
+👩🏻‍🎓 Graduando Análise e Desenvolvimento de Sistemas <br>
 📚 Atualmente procurando me aperfeiçoar em Flutter, ReactJS e Spring <br>
 🔭 Em busca de conhecimentos em Devops <br>
 🎮 Gamer nas horas vagas
